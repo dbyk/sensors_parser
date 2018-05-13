@@ -1,5 +1,5 @@
 # Sensors_parser
-Parse `lm-sensors` command for Zabbix
+Parse `lm-sensors` command for Zabbix. Host should have `lm-sensors` with json output (`-j`) installed
 
 # Insallation
 * Config Zabbix agent for using UserParameters [Zabbix docs](https://www.zabbix.com/documentation/3.4/manual/config/items/userparameters)
